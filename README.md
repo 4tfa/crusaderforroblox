@@ -4,4 +4,6 @@ crusader_old_ui is universal for every game with old features of the r6 cheat cr
 
 crusader.lua is new version of crusader with radar, some features dont work such as operator esp
 
-crusader.lua is made for operations siege
+crusader.lua is made for operations siege but will probably work on every game
+
+crusader_old_ui.lua is universal
